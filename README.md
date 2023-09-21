@@ -1,4 +1,4 @@
-# testAPI Githab Issues
+# API Githab Issues
 
 <p> Коллекция Postman  (скачать и импортировать в Postman)</p> 
 > <a href="https://drive.google.com/file/d/177fpF3q3_xd1H8DrxUmZIxqZlVy8Fz7d/view?usp=sharing">Ссылка на коллекцию</a>
